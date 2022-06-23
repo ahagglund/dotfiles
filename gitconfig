@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adam.hagglund@ingka.ikea.com
+	name = Adam Hagglund
